@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/public/logo.jpg" alt="BlackLocust" width="160" />
+  <img src="public/logo.jpg" alt="BlackLocust" width="160" />
   <h1>BlackLocust</h1>
   <p>An AI trainer powered by Yolo26</p>
 </div>

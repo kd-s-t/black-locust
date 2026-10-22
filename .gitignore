@@ -7,9 +7,12 @@ __pycache__/
 *.pt
 *.db
 cats_dogs.zip
-frontend/node_modules/
-frontend/.next/
-frontend/out/
+node_modules/
+.next/
+out/
 .DS_Store
 .env
 .env.*
+*.tsbuildinfo
+next-env.d.ts
+.vercel

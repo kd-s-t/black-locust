@@ -17,6 +17,13 @@ const display = Space_Grotesk({
 export const metadata: Metadata = {
   title: "BlackLocust",
   description: "An AI trainer powered by Yolo26",
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "48x48" },
+      { url: "/icon.png", type: "image/png", sizes: "512x512" },
+    ],
+    apple: [{ url: "/apple-icon.png", sizes: "180x180" }],
+  },
 };
 
 export default function RootLayout({
